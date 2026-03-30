@@ -1,2 +1,1 @@
-# nexus-docs.dcai.corp.adobe.com
-nexus-docs.dcai.corp.adobe.com
+pwned by c4ng4c3ir0
